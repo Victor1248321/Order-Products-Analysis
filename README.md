@@ -12,3 +12,22 @@ Alternativly, a copy of the three data tables we are working with can be found a
 To run our work, simply open the file "Order-Products Analysis.db" via DB Browser for SQLite.
 
 SQL logic used-
+
+1. SELECT statements to return information from the table, directly by name or using an alias
+2. WHERE clause to filter rows via specified criteria to narrow results down
+3. GROUP BY to group results so they can be aggregated over (via aggregates such as COUNT, SUM, AVG)
+4. Using scalar functions to adjust data results (such as ROUND)
+5. CASE WHEN to adjust/filter results
+6. ORDER BY to order resulting table in a different orientation
+7. Using joins to connect 2-3 tables together in one query (such as LEFT and INNER joins)
+
+
+
+
+    
+    
+    
+    
+   
+    
+
